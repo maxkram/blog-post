@@ -1,5 +1,4 @@
 import React from 'react';
-import profile1 from './img/1.jpg';
 
 const SingleComment = (props) => {
   return (
